@@ -1,9 +1,14 @@
 # Business Marketing Sender
 
-- Rebranding ID: 67aec77cdb9e8963886b8ab3
-- User ID: 645cade27b58525be1908fb7
-- App name: Business Marketing Sender
-- Product name: Button Sender
+Business Marketing Sender by Business Marketing Sender.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/5212c556-32df-4f93-a8b3-de9ca4395a36.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/5212c556-32df-4f93-a8b3-de9ca4395a36.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/business-marketing-sender/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Business Marketing Sender** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/business-marketing-sender/releases/latest) and reinstall.
